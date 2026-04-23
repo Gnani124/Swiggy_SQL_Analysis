@@ -65,7 +65,13 @@ This project highlights how data can be transformed into actionable insights usi
 
 ---
 
+
+<img width="1389" height="821" alt="Screenshot 2026-04-23 102949" src="https://github.com/user-attachments/assets/3ca0bfc7-9447-44a8-82c9-7cbd63a25f50" />
+
+
+
 ## 🙌 Author
 
 ** K GNANESWAR REDDY **
+
 Aspiring Data Analyst | SQL | Python | Power BI
